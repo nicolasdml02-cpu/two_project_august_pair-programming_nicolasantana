@@ -55,18 +55,18 @@ def atualizar_saldo():
 # 3. Configuração da Janela Principal
 janela = tk.Tk()
 janela.title("Simulador de Rendas")
-janela.geometry("380x300")
+janela.geometry("400x300")
 
 # 4. Componentes da Interface (Visor de Saldo e Campo de Entrada)
 lbl_saldo = tk.Label(
-    janela, text="Saldo Atual: R$ 0.00", font=("Arial", 14, "bold"), fg="#008052"
+    janela, text="Saldo Atual: R$ 0.00", font=("Times New Roman", 17, "italic"), fg="#00DDFF"
 )
 lbl_saldo.pack(pady=20)
 
 lbl_instrucao = tk.Label(janela, text="Valor da Operação (R$):")
 lbl_instrucao.pack()
 
-ent_valor = tk.Entry(janela, font=("Arial", 12))
+ent_valor = tk.Entry(janela, font=("Times New Roman", 16))
 ent_valor.pack(pady=5)
 
 # 5. Painel de Botões
@@ -76,15 +76,15 @@ btn_frame.pack(pady=15)
 btn_depositar = tk.Button(
     btn_frame,
     text="Depositar (+)",
-    bg="#008052",
-    fg="white",
+    bg="#030BFF",
+    fg="black",
     width=12,
     command=depositar,
 )
 btn_depositar.grid(row=0, column=0, padx=5)
 
 btn_sacar = tk.Button(
-    btn_frame, text="Sacar (-)", bg="#c8102e", fg="white", width=12, command=sacar
+    btn_frame, text="Sacar (-)", bg="#10c81c", fg="black", width=12, command=sacar
 )
 btn_sacar.grid(row=0, column=1, padx=5)
 
