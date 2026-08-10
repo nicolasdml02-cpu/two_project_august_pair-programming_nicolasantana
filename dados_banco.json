@@ -1,0 +1,12 @@
+{
+  "cliente_nome": "Cliente Nicolas",
+  "num_conta": "BR00-1234",
+  "saldo": 2500.00,
+  "historico_transacoes": [
+    {
+      "tipo": "Depósito Inicial",
+      "valor": 2500.00,
+      "operacao": "Crédito"
+    }
+  ]
+}
