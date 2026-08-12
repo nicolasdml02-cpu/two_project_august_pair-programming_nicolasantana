@@ -40,8 +40,6 @@ pip install requests pillow customtkinter
 
 💙 *Projeto desenvolvido para fins educacionais e de capacitação profissional.*
 
-```bash
-
 # 🎲 Pensamento Computacional - Projeto 🐍☁️💻
 
 Nosso repositório oficial para o desenvolvimento e documentação de sistemas reais em Python.
@@ -84,6 +82,8 @@ O desenvolvimento, estruturação e aprimoramento deste sistema bancário foram 
 ## 💻 Visualizando o Código Principal (GUI & JSON)
 
 Abaixo está a implementação completa do sistema em Python utilizando a paleta de cores temática inspirada em bancos digitais modernos (*Dark Blue*, *Gold/Orange* e *Branco*):
+
+```bash
 
 ```python
 import json
