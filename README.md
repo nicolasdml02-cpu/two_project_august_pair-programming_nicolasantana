@@ -35,12 +35,12 @@ O projeto é composto por **4 aplicações independentes**:
 
 A maioria das aplicações utiliza bibliotecas nativas do Python. Para rodar todas as ferramentas sem erros, certifique-se de ter o Python 3.8+ instalado e as seguintes bibliotecas adicionais:
 
-```bash
+
 pip install requests pillow customtkinter
 
 💙 *Projeto desenvolvido para fins educacionais e de capacitação profissional.*
 
-
+```bash
 
 # 🎲 Pensamento Computacional - Projeto 🐍☁️💻
 
