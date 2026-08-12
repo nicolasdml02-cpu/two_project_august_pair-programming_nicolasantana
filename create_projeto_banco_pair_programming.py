@@ -19,10 +19,10 @@ class SistemaBancario:
         self.root.resizable(False, False)
 
         # Paleta de cores (Estilo banco digital moderno)
-        self.COR_BG = "#5DECFF"
-        self.COR_CARD = "#19477C"
-        self.COR_ACCENT = "#21FF3E"
-        self.COR_TEXTO = "#EFFF62"
+        self.COR_BG = "#004d6e"
+        self.COR_CARD = "#0081ab"
+        self.COR_ACCENT = "#00b1cd"
+        self.COR_TEXTO = "#a6c844"
         self.COR_SUBTEXTO = "#B0BEC5"
 
         self.root.config(bg=self.COR_BG)
@@ -78,7 +78,7 @@ class SistemaBancario:
 
         lbl_logo = tk.Label(
             header_frame,
-            text="🏛 AURA BANK",
+            text="🏛 💰AURA BANK💰",
             font=("Times New Roman", 22, "bold"),
             fg=self.COR_ACCENT,
             bg=self.COR_BG

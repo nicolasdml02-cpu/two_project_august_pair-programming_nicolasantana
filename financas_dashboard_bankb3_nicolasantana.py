@@ -8,9 +8,9 @@ import tkinter as tk
 from tkinter import messagebox, ttk
 
 # 1. Paleta de Cores Personalizada
-COLOR_ROXO_ESC  = "#7a009b"  # AE (Fundo das abas e headers)
+COLOR_ROXO_ESC  = "#97899b"  # AE (Fundo das abas e headers)
 COLOR_AZUL_CLA  = "#00fffb"  # AM (Bordas e detalhes)
-COLOR_VERDE_CLA = "#00ff62"  # AC (Destaque e fundos secundários)
+COLOR_VERDE_CLA = "#55b479"  # AC (Destaque e fundos secundários)
 COLOR_AMAR_CLA  = "#bbf900"  # V  (Botão de Entrada / Sucesso)
 COLOR_ROXO_CLA  = "#fb00ff"  # R  (Botão de Saída / Alertas)
 COLOR_AZUL_ESC  = "#1500ff"  # A  (Destaque de Cripto / Seleção de Aba)

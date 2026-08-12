@@ -1,12 +1,22 @@
 {
-  "cliente_nome": "Cliente Nicolas",
-  "num_conta": "BR00-1234",
-  "saldo": 2500.00,
-  "historico_transacoes": [
-    {
-      "tipo": "Depósito Inicial",
-      "valor": 2500.00,
-      "operacao": "Crédito"
-    }
-  ]
+    "cliente_nome": "Cliente Nicolas",
+    "num_conta": "BR00-1234",
+    "saldo": 1750.0,
+    "historico_transacoes": [
+        {
+            "tipo": "Depósito Inicial",
+            "valor": 2500.0,
+            "operacao": "Crédito"
+        },
+        {
+            "tipo": "Depósito",
+            "valor": 500.0,
+            "operacao": "Crédito"
+        },
+        {
+            "tipo": "Saque",
+            "valor": 1250.0,
+            "operacao": "Débito"
+        }
+    ]
 }

@@ -76,7 +76,7 @@ btn_frame.pack(pady=15)
 btn_depositar = tk.Button(
     btn_frame,
     text="Depositar (+)",
-    bg="#030BFF",
+    bg="#00E832",
     fg="black",
     width=12,
     command=depositar,
@@ -84,7 +84,7 @@ btn_depositar = tk.Button(
 btn_depositar.grid(row=0, column=0, padx=5)
 
 btn_sacar = tk.Button(
-    btn_frame, text="Sacar (-)", bg="#10c81c", fg="black", width=12, command=sacar
+    btn_frame, text="Sacar (-)", bg="#45efbf", fg="black", width=12, command=sacar
 )
 btn_sacar.grid(row=0, column=1, padx=5)
 
