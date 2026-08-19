@@ -41,12 +41,6 @@ pip install requests pillow customtkinter
 
 ---
 
-# 🎲 Pensamento Computacional - Projeto BANCO 🐍☁️💻
-
-Nosso repositório oficial para o desenvolvimento e documentação de sistemas reais em Python.
-
----
-
 ## 🏛️ Projeto em Destaque: Aura Bank System (Interface Gráfica & Persistência JSON)
 
 Este projeto foi desenvolvido para simular as operações essenciais de um sistema bancário moderno e interativo. O aplicativo conta com uma **Interface Gráfica (GUI)** elegante desenvolvida em `tkinter`, integra dados de cotações em tempo real via API REST e garante a persistência completa dos dados dos clientes através de arquivos **JSON**.
