@@ -1,4 +1,3 @@
-# 🎲 Pensamento Computacional - Projeto 🐍☁️💻
 # 📈 Suíte de Educação e Simulação Financeira em Python (GUI)
 
 Uma coleção de aplicações desktop desenvolvidas em Python para ensino de conceitos financeiros, história dos investimentos no Brasil, cálculo de juros compostos e simulação de gestão de carteira/caixa usando interfaces gráficas com **Tkinter** e **CustomTkinter**.
@@ -40,7 +39,9 @@ pip install requests pillow customtkinter
 
 💙 *Projeto desenvolvido para fins educacionais e de capacitação profissional.*
 
-# 🎲 Pensamento Computacional - Projeto 🐍☁️💻
+=============================================================================================================================================================================
+
+# 🎲 Pensamento Computacional - Projeto BANCO 🐍☁️💻
 
 Nosso repositório oficial para o desenvolvimento e documentação de sistemas reais em Python.
 
