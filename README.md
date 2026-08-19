@@ -39,7 +39,7 @@ pip install requests pillow customtkinter
 
 💙 *Projeto desenvolvido para fins educacionais e de capacitação profissional.*
 
-===========================================================================
+---
 
 # 🎲 Pensamento Computacional - Projeto BANCO 🐍☁️💻
 
